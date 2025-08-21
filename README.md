@@ -37,19 +37,10 @@ First of all, thank you! Development costs have been mostly self-funded, with fi
 
 This printer is in active development. Please check back regularly for bug fixes and configuration updates!
 
-## Beta 1 - Observations
-
-Some parts required to get some configurations up and running are not currently released. They will follow shortly after the first beta (within a week). These are:
-
- - [ ] SKR Mini E3 electronics box and cover
- - [ ] LDO Nitehawk-SB USB breakout bracket (electronics bay)
- - [ ] LCD cover for BTT Pi TFT 4.3"
- - [ ] SuperPINDA mount for the side of the Stealthburner (very soon)
-
 ## Build Volume
 
 X: 250mm
-Y: 210mm (220mm for Core ONE build plate)
+Y: 210mm
 Z: 185mm
 
 ## Technical Support
