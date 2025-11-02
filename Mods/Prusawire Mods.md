@@ -22,7 +22,11 @@
 
 ## Frame and Motion
 - [Prusawire Key-Bak Mounting Bracket by @telefaksi](https://www.printables.com/model/1371269-prusawire-key-bak-mounting-bracket)
+- [TPU Feet for Prusawire and Voron V0 (Alternative to purchased rubber feet!)](https://www.printables.com/model/1442105-tpu-feet-for-prusawire-and-voron-v0)
 
 
 ## Aesthetics
 - [Prusawire Supplemental Badge by @TheNexusAvenger](https://www.printables.com/model/1368495-prusawire-supplemental-badge)
+
+## Major Mods
+- [XZ Belt Reroute (Under the printer instead of over) by @WaschBaer](https://www.printables.com/model/1466188-beltreroute-better-center-of-mass-more-z-height)
