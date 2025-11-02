@@ -6,8 +6,8 @@
 - [Prusawire MMU LCD Cover with insert letters by @einarjh](https://www.printables.com/model/1392274-prusawire-mmu-lcd-cover-with-inset-letters)
 - [BTT PI TFT50 V2.1 Prusawire Housing by @telefaksi](https://www.printables.com/model/1384689-btt-pi-tft50-v21-prusawire-housing)
 - [Prusawire BigTreeTech HDMI 5 Mount by @TheNexusAvenger](https://www.printables.com/model/1377302-prusawire-bigtreetech-hdmi-5-mount)
-- [Prusawire Electronics Tower (w/ all printed parts) by @WaschBaer](https://www.printables.com/model/1464165-skr-mini-e3-v3-printable-case-pi3b-backplate-mods)
 - [Prusawire ELectronics Tower (w/ xBuddy Box) by @TheNexusAvenger](https://www.printables.com/model/1415732-prusawire-electronics-tower)
+- [Prusawire Electronics Tower (w/ all printed parts) by @WaschBaer](https://www.printables.com/model/1464165-skr-mini-e3-v3-printable-case-pi3b-backplate-mods)
 
 ## Wiring
 - [Prusawire Cable Management Mods by @telefaksi](https://www.printables.com/model/1374187-prusawire-cable-management-mods)
