@@ -37,8 +37,9 @@ Additionally, the following says this printer is for you:
 
 First of all, thank you! Development costs have been mostly self-funded, with filament sponsored by Levendigs, and LDO Motors for providing the funds for the Prusa MK4 frame.
 
- - Support Positron3D to fund future endeavors: [Positron3D Merch](https://nomadsgalaxy-shop.fourthwall.com/)
- - [Buy @ellafoxo (the original creator) a Ko-Fi](https://ko-fi.com/ellafoxo)
+ - Support Positron3D to fund future endeavors: 
+   - [Donate to Positron3D](https://www.paypal.com/donate/?hosted_button_id=YGPRVTSHN4FQG)
+   - [Positron3D Merch](https://nomadsgalaxy-shop.fourthwall.com/)
 
  Please consider posting your completed make to [@ellafoxo's Printables Page for the Beta 1 release](https://www.printables.com/model/1363547-prusawire-2025b1-beta-1/comments)!
 
@@ -79,6 +80,7 @@ Many thanks to all the awesome people and companies that have made this possible
 
  - Prusa Research - Cheers, Josef and the team for the MK3/4 platform on which this was built upon!
  - Voron Design - Switchwire
+ - [Ella Fox](https://printables.com/@ellafoxo) - who took Prusawire from a joke to a beautiful and powerful machine. [Buy Ella a Ko-Fi](https://ko-fi.com/ellafoxo)
  - Positron 3D Team - Too many to name, you know who you are <3
    - Early development team:
      - Nomad's Galaxy

@@ -49,6 +49,13 @@ Instead, please [join the Positron3D Discord](https://discord.com/invite/positro
 
 We are accepting serials over on the [Positron 3D Discord](https://discord.com/invite/positron). Please submit your request to the #prusawire-serial-request channel over there. 
 
+## Want to Support the Project?
+
+First of all, thank you! Development costs have been mostly self-funded, with filament sponsored by Levendigs, and LDO Motors for providing the funds for the Prusa MK4 frame.
+
+ - Support Positron3D to fund future endeavors: 
+   - [Donate to Positron3D](https://www.paypal.com/donate/?hosted_button_id=YGPRVTSHN4FQG)
+   - [Positron3D Merch](https://nomadsgalaxy-shop.fourthwall.com/)
 
 ## Credits 
 
@@ -56,6 +63,7 @@ Many thanks to all the awesome people and companies that have made this possible
 
  - Prusa Research - Cheers, Josef and the team for the MK3/4 platform on which this was built upon!
  - Voron Design - Switchwire
+ - Ella Fox - who took Prusawire from a joke to a beautiful and powerful machine. [Buy Ella a Ko-Fi](https://ko-fi.com/ellafoxo)
  - Positron 3D Team - Too many to name, you know who you are <3
    - Early development team:
      - Nomad's Galaxy
