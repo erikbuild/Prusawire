@@ -2,6 +2,8 @@
 
 Updated periodically to note significant design changes, fixes, and enhancements.
 
+- 2025-11-15
+    - Update y_belt_tensioner_front to allow recessed screw cap head.  Update tensioner screw to M3x16 SHCS in BOM.  Update y_belt_tensioner_rear to have M3S and V0SN variants. (via @erikbuild)
 - 2025-11-05
     - Documentation site launched ([https://positron3d.github.io/Prusawire](https://positron3d.github.io/Prusawire)) (via @erikbuild)
 - 2025-10-31

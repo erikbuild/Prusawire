@@ -78,9 +78,13 @@ The most up–to–date Klipper configuration files for setting up or updating t
 
 Many thanks to all the awesome people and companies that have made this possible. Notably:
 
+Most importantly:
+- [Ella Fox](https://printables.com/@ellafoxo), _the architect of Beta 1_ - who took Prusawire from a joke to a beautiful and powerful machine. [Buy Ella a Ko-Fi](https://ko-fi.com/ellafoxo)
+
+And also:
 - Prusa Research - Cheers, Josef and the team for the MK3/4 platform on which this was built upon!
 - Voron Design - Switchwire
-- [Ella Fox](https://printables.com/@ellafoxo) - who took Prusawire from a joke to a beautiful and powerful machine. [Buy Ella a Ko-Fi](https://ko-fi.com/ellafoxo)
+
 - Positron 3D Team - Too many to name, you know who you are <3
 - Early development team:
    - Nomad's Galaxy
