@@ -8,7 +8,7 @@ nav_order: 1
 
 ![](images/prusawire_2025b1_render.png)
 
-An unofficial Prusa MK3 and MK4 to Switchwire total conversion mod, from Positron's April Fools of 2025.
+An unofficial Prusa MK3 and MK4 to Switchwire total conversion mod, from Positron 3D's April Fools of 2025.
 
 ## Current Release
 
@@ -24,7 +24,7 @@ Beta 2 is coming SOON(tm).
 >
 > After months of hard work, please enjoy the build ❤
 > 
-> [-@ellafoxo](https://www.printables.com/@ellafoxo)
+> -@ellafoxo
 
 ## Who This Printer is For
 
@@ -42,12 +42,12 @@ Additionally, the following says this printer is for you:
 
 Prusawire, technically, does not count as a Voron Switchwire. We ask you kindly not to nag the Voron Design team for technical support.
 
-Instead, please [join the Positron3D Discord](https://discord.com/invite/positron) for support with your build, and maybe share your progress over there too.
+Instead, please [join the Positron3D Discord](https://discord.gg/positron) for support with your build, and maybe share your progress over there too.
 
 
 ## Serial Numbers
 
-We are accepting serials over on the [Positron 3D Discord](https://discord.com/invite/positron). Please submit your request to the #prusawire-serial-request channel over there. 
+We are accepting serials over on the [Positron 3D Discord](https://discord.gg/positron). Please submit your request to the #prusawire-serial-request channel over there. 
 
 ## Want to Support the Project?
 
@@ -62,7 +62,7 @@ First of all, thank you! Development costs have been mostly self-funded, with fi
 Many thanks to all the awesome people and companies that have made this possible.
 
 Most importantly:
-- [Ella Fox](https://printables.com/@ellafoxo), _the architect of Beta 1_ - who took Prusawire from a joke to a beautiful and powerful machine. [Buy Ella a Ko-Fi](https://ko-fi.com/ellafoxo)
+- Ella Fox, _the architect of Beta 1_ - who took Prusawire from a joke to a beautiful and powerful machine. [Buy Ella a Ko-Fi](https://ko-fi.com/ellafoxo)
 
 And also:
 - Prusa Research - Cheers, Josef and the team for the MK3/4 platform on which this was built upon!
@@ -87,7 +87,8 @@ And also:
 
 ## Team
 
-Prusawire is currently maintained by Nomad's Positron 3D Team.
+Prusawire is currently maintained by the Positron 3D Team.
 
 - Design Lead: @Safe-ty
 - Documentation Lead: @erikbuild
+- Software Lead: @TheNexusAvenger

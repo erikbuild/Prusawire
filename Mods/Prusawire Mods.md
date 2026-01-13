@@ -23,6 +23,7 @@
 ## Frame and Motion
 - [Prusawire Key-Bak Mounting Bracket by @telefaksi](https://www.printables.com/model/1371269-prusawire-key-bak-mounting-bracket)
 - [TPU Feet for Prusawire and Voron V0 (Alternative to purchased rubber feet!)](https://www.printables.com/model/1442105-tpu-feet-for-prusawire-and-voron-v0)
+- [PZ Probe Mount for Prusawire Stealthburner Carriage by @Jarhead](https://www.printables.com/model/1368943-pz-probe-mount-for-prusawire-beta-1)
 
 ## Aesthetics
 - [Prusawire Supplemental Badge by @TheNexusAvenger](https://www.printables.com/model/1368495-prusawire-supplemental-badge)

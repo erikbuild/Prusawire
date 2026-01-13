@@ -6,7 +6,7 @@ color_scheme: positron-dark
 logo: images/positron-prusawire.png
 title_only_logo: false
 favicon: images/favicon.ico
-url: https://positron3d.github.io/Prusawire
+url: https://prusawire.positron3d.com
 search_enabled: true
 search.button: true
 aux_links:
